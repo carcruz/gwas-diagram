@@ -1,2 +1,5 @@
 # Ignore Python cache directories:
 __pycache__/
+
+client/node_modules
+.gwas_diag
